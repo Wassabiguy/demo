@@ -1,2 +1,2 @@
 # demo
-just a simple project
+<h1>just a simple project</h1>
